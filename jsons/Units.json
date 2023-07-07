@@ -3,7 +3,7 @@
                 "name": "神風",
                 "uniqueTo": "Japan",
                 "unitType": "Bomber",
-                "requiredTech": "Lader",
+                "requiredTech": "Rader",
                 "rangedStrength": 60,
                 "strength": 60,
                 "range":12,
