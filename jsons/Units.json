@@ -5,7 +5,7 @@
                 "unitType": "Bomber",
                 "requiredTech": "Lader",
                 "rangedStrength": 60,
-                "Strength": 60,\
+                "Strength": 60,
                 "range":12,
                 "cost": 300,
                 "uniques": ["Can only attack [Water] units","Self-destructs when attacking","[+300]% Strength <vs [Melee Water, Ranged Water, Aircraft Carrier] units>"],
